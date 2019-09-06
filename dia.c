@@ -60,7 +60,7 @@ diagonal (int a[][10], int n, int o)
 		else if(i+j==n-1)
 			printf ("%d  ", a[i][j]);
 		else
-			printf("  ");
+			printf("   ");
 	}
       printf ("\n");
     }
