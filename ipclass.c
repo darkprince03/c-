@@ -22,7 +22,7 @@ void main()
   	}
 	for(i=0;i<4;i++){
 		printf("%s ",b[i]);
-		int v=atoi(b[i]);
+		v[i]=atoi(b[i]);
 	}		
 	for(i=0;i<4;i++){
 		printf("%d ",v[i]);
