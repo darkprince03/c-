@@ -5,7 +5,7 @@ char* strstr1(char *,char *);
 void main()
 {	
 	int cmp;
-	char a[]="ranjit",c[]="i acsadsdm ran jit am pillai",d[]="ran";
+	char a[]="ranjit",c[]="fksdbffgsdfnbcxifsjkf",d[]="fnbd";
 	char b[10];
 	char *str;
 	strcpy1(b,a);
